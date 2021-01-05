@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/kaylakantola/get-the-point#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "csv": "^5.1.1",
     "csvtojson": "^2.0.10",
     "dotenv": "^8.0.0",
